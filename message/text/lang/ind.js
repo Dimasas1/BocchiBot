@@ -638,10 +638,10 @@ wa.me/${ownerNumber.replace('@c.us', '')} (Owner/hoster)
 wa.me/6281294958473 (Developer)
 
 Kalian juga bisa mendukung saya agar bot ini tetap up to date dengan:
-081294958473 (OVO/Telkomsel/GoPay)
+083154964401 (OVO/Telkomsel/GoPay)
 
 Terima kasih!
 
-Slavyan.
+DimasDm.
     `
 }
